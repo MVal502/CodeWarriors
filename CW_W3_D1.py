@@ -11,7 +11,7 @@ Description: You are going to be given a word. Your job is to return the middle 
 
 	Kata.getMiddle("A") should return "A"
 
-Link: 
+Link: https://www.codewars.com/kata/56747fd5cb988479af000028/solutions/python
 ''' 
 
 def get_middle(s):
